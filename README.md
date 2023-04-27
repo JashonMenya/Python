@@ -2,9 +2,8 @@
 
 All Python
 
-# DBConnection
+# Virtual Environment
 
-Virtual Environment
 It is highly recommended you use virtual environment to isolate dependencies needed per project
 
 _On Mac_
