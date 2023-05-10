@@ -1,3 +1,8 @@
+"""
+This module provides basic math operations.
+"""
+
+
 def add(num_one, num_two):
     """
         Takes two numbers and adds them
@@ -24,9 +29,3 @@ def multiply(num_one, num_two):
         Takes two numbers and multiplys them
     """
     return num_one + num_two
-
-
-print(add(2, 2))
-print(subtract(2, 1))
-print(divide(8, 2))
-print(multiply(2, 2))
