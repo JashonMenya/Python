@@ -31,6 +31,6 @@ def multiply(num_one, num_two):
     return num_one + num_two
 
 
-multiplied = multiply(2, 2)
+MULTIPLIED = multiply(2, 2)
 
-add(multiplied, 2)
+add(MULTIPLIED, 2)
