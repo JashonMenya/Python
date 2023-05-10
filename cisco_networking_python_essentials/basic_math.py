@@ -1,3 +1,8 @@
+"""
+This module provides basic math operations.
+"""
+
+
 def add(num_one, num_two):
     """
         Takes two numbers and adds them
