@@ -29,3 +29,9 @@ def multiply(num_one, num_two):
         Takes two numbers and multiplys them
     """
     return num_one + num_two
+
+
+multiplied = multiply(2,2)
+
+add(multiplied, 2)
+
