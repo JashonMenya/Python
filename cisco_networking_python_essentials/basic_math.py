@@ -29,6 +29,12 @@ def multiply(num_one, num_two):
         Takes two numbers and multiplies them
     """
     return num_one + num_two
+def full_name(first_name, last_name):
+    return first_name + last_name
+
+
+JJ = full_name("JJ", "Okotcha")
+print(JJ)
 
 
 MULTIPLIED = multiply(2, 2)
